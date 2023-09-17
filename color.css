@@ -1,0 +1,17 @@
+.header-color {
+    background-color: #1e2124;
+}
+
+.body-color {
+    background-color: #282b30;
+}
+
+.card-bg {
+    background-color: #36393e;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
