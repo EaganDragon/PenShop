@@ -1,0 +1,51 @@
+body {
+    background-color: #1e2124; /* Darkest */
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #282b30; /* Lighter 3 */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #36393e; /* Lighter 2 */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #424549; /* Lighter 1 */
+}
+
+.navColor {
+    background-color: #282b30;
+}
+
+.cardBG {
+    background: #282b30;
+}
+
+.hoverColor:hover {
+    background-color: #424549;
+}
+
+.buttonColor {
+    background-color: #36393e;
+}
+
+.buttonColor:hover {
+    background-color: #424549;
+}
+
+.textColor {
+    color: #ffffff;
+}
+
+.textColor:hover {
+    color: #115dbf;
+}
